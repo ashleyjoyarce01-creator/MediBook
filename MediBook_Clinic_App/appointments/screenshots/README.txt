@@ -1,0 +1,1 @@
+No live application screenshots are included yet. Django could not be installed in the build environment, so the app could not be launched. Capture screenshots from the actual running app and paste them into the Word documentation before submission. Do not use mock images as runtime evidence.

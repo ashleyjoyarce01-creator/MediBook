@@ -1,0 +1,5 @@
+1. Extract the ZIP.
+2. Open terminal in MediBook_Clinic_App.
+3. Run the commands in README.md.
+4. Open http://127.0.0.1:8000/
+5. Open MediBook_TestIII_TestIV_Documentation.docx and fill in student details, GitHub URL, and real screenshots.

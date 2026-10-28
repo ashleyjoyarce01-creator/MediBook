@@ -1,0 +1,143 @@
+[
+  {
+    "model": "appointments.specialty",
+    "pk": 1,
+    "fields": {
+      "name": "Family Medicine",
+      "slug": "family-medicine"
+    }
+  },
+  {
+    "model": "appointments.specialty",
+    "pk": 2,
+    "fields": {
+      "name": "Pediatrics",
+      "slug": "pediatrics"
+    }
+  },
+  {
+    "model": "appointments.specialty",
+    "pk": 3,
+    "fields": {
+      "name": "Dermatology",
+      "slug": "dermatology"
+    }
+  },
+  {
+    "model": "appointments.doctor",
+    "pk": 1,
+    "fields": {
+      "full_name": "Dr. Maria Santos",
+      "specialty": 1,
+      "bio": "Family physician focused on preventive care and everyday health concerns.",
+      "consultation_fee": "500.00",
+      "photo": "doctors/dr-maria-santos.png",
+      "is_accepting": true,
+      "date_created": "2026-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "appointments.doctor",
+    "pk": 2,
+    "fields": {
+      "full_name": "Dr. Rafael Cruz",
+      "specialty": 2,
+      "bio": "Pediatrician helping children and families build healthy routines.",
+      "consultation_fee": "650.00",
+      "photo": "doctors/dr-rafael-cruz.png",
+      "is_accepting": true,
+      "date_created": "2026-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "appointments.doctor",
+    "pk": 3,
+    "fields": {
+      "full_name": "Dr. Angela Reyes",
+      "specialty": 3,
+      "bio": "Dermatology consultations for common skin conditions and skin care.",
+      "consultation_fee": "800.00",
+      "photo": "doctors/dr-angela-reyes.png",
+      "is_accepting": false,
+      "date_created": "2026-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "appointments.doctor",
+    "pk": 4,
+    "fields": {
+      "full_name": "Dr. Daniel Flores",
+      "specialty": 1,
+      "bio": "General practitioner supporting preventive and routine primary care.",
+      "consultation_fee": "550.00",
+      "photo": "",
+      "is_accepting": true,
+      "date_created": "2026-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "appointments.doctor",
+    "pk": 5,
+    "fields": {
+      "full_name": "Dr. Sofia Mendoza",
+      "specialty": 2,
+      "bio": "Pediatric care for common childhood health needs and checkups.",
+      "consultation_fee": "700.00",
+      "photo": "",
+      "is_accepting": true,
+      "date_created": "2026-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "appointments.doctor",
+    "pk": 6,
+    "fields": {
+      "full_name": "Dr. Luis Navarro",
+      "specialty": 3,
+      "bio": "Skin health consultations and support for common dermatology concerns.",
+      "consultation_fee": "750.00",
+      "photo": "",
+      "is_accepting": true,
+      "date_created": "2026-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "appointments.doctor",
+    "pk": 7,
+    "fields": {
+      "full_name": "Dr. Bianca Ramos",
+      "specialty": 1,
+      "bio": "Family medicine with an emphasis on patient education and wellness.",
+      "consultation_fee": "600.00",
+      "photo": "",
+      "is_accepting": true,
+      "date_created": "2026-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "appointments.doctor",
+    "pk": 8,
+    "fields": {
+      "full_name": "Dr. Paolo Garcia",
+      "specialty": 2,
+      "bio": "Pediatric checkups and family guidance for healthy development.",
+      "consultation_fee": "675.00",
+      "photo": "",
+      "is_accepting": true,
+      "date_created": "2026-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "appointments.doctor",
+    "pk": 9,
+    "fields": {
+      "full_name": "Dr. Camille Torres",
+      "specialty": 1,
+      "bio": "Primary care consultations and ongoing preventive health support.",
+      "consultation_fee": "525.00",
+      "photo": "",
+      "is_accepting": true,
+      "date_created": "2026-01-01T00:00:00Z"
+    }
+  }
+]
